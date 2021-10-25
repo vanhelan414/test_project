@@ -1,2 +1,3 @@
 # test_project
-to test git commands
+This repository is to learn new git commands !
+
